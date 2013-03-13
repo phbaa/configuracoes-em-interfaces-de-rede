@@ -1,17 +1,15 @@
 configuracoes-em-interfaces-de-rede
 ===================================
 
-<html>
-
+<!doctype html>
+<html lang="en">
 <head>
-  <title> Projeto de DW </title>
+  <meta charset="UTF-8">
+	<title>Projeto de Dw</title>
 </head>
-
 <body>
-
-   <p> Seja Bem Vindo! </p>
+	
+	<p> Seja Bem Vindo! </p>
 
 </body>
-
-
 </html>
